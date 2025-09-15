@@ -66,7 +66,7 @@ export default function RegisterPage() {
       <div className="w-full max-w-md bg-white p-8 rounded-xl shadow-lg border">
         <div className="flex justify-center items-center mb-6">
           <Package className="w-10 h-10 text-indigo-600"/>
-          <h1 className="ml-3 text-3xl font-bold text-gray-800">Shopalytics</h1>
+          <h1 className="ml-3 text-3xl font-bold text-gray-800">XenoFlow</h1>
         </div>
         <h2 className="text-xl text-center text-gray-600 mb-8">Create an Account</h2>
         {error && <p className="bg-red-100 text-red-700 p-3 rounded-md mb-4 text-center text-sm">{error}</p>}

@@ -55,7 +55,7 @@ export default function LoginPage() {
       <div className="w-full max-w-md bg-white p-8 rounded-xl shadow-lg border">
         <div className="flex justify-center items-center mb-6">
           <Package className="w-10 h-10 text-indigo-600" />
-          <h1 className="ml-3 text-3xl font-bold text-gray-800">Shopalytics</h1>
+          <h1 className="ml-3 text-3xl font-bold text-gray-800">XenoFlow</h1>
         </div>
         <h2 className="text-xl text-center text-gray-600 mb-8">Welcome Back</h2>
         {error && (

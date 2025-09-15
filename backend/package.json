@@ -1,7 +1,8 @@
 {
-  "name": "shopalytics-backend",
+  "name": "xeno-shop-backend",
+  
   "version": "1.0.0",
-  "description": "Backend service for the Shopalytics dashboard.",
+  "description": "Backend service for the XenoShop dashboard.",
   "main": "server.js",
   "scripts": {
     "dev": "nodemon server.js",

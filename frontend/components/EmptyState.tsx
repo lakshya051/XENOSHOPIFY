@@ -13,7 +13,7 @@ export function EmptyState() {
           <ShoppingCart className="h-9 w-9 text-indigo-600" />
         </div>
         <h2 className="mt-6 text-2xl font-bold text-gray-800">
-          Welcome to Shopalytics!
+          Welcome to XenoFlow
         </h2>
         <p className="mt-2 text-gray-600">
           You&apos;re just a few steps away from unlocking your store&apos;s insights.

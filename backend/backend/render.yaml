@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: shopalytics-backend
+    name: XenoFlow-Backend
     env: node
     plan: free
     buildCommand: npm install && npx prisma migrate resolve --applied "20250914115755_" 

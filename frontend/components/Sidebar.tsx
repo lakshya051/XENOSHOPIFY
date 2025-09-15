@@ -30,7 +30,7 @@ export function Sidebar() {
 
       <div className="p-6 h-16 flex items-center border-b">
         <Package className="w-8 h-8 text-indigo-600"/>
-        <h1 className="ml-3 text-2xl font-bold text-gray-800">Shopalytics</h1>
+        <h1 className="ml-3 text-2xl font-bold text-gray-800">XenoFlow</h1>
       </div>
 
       <nav className="flex-1 px-4 py-6 space-y-2">

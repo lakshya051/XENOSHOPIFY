@@ -1,6 +1,6 @@
 # Shopalytics: A Multi-Tenant Shopify Insights Dashboard
 
-Shopalytics is a complete, production-ready, full-stack multi-tenant Shopify data ingestion and insights platform. This project demonstrates enterprise-level architecture for onboarding multiple Shopify stores, syncing their core business data, and visualizing key performance indicators in a secure, professional web application.
+Xenoflow is a complete, production-ready, full-stack multi-tenant Shopify data ingestion and insights platform. This project demonstrates enterprise-level architecture for onboarding multiple Shopify stores, syncing their core business data, and visualizing key performance indicators in a secure, professional web application.
 
 **Project Status:** ✅ **COMPLETED** - Production Ready  
 **Last Updated:** January 2025
