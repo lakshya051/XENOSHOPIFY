@@ -8,7 +8,10 @@ const webhookRoutes = require('./routes/webhook.routes');
 
 const allowedOrigins = [
   'http://localhost:3001',              // Your local frontend
-  'https://bc66035cdf72.ngrok-free.app' // Your ngrok URL (for Shopify)
+  'https://bc66035cdf72.ngrok-free.app',
+  'https://xenoshopify.onrender.com',
+  'https://xenoshopify.vercel.app'
+
 ];
 const authRoutes = require('./routes/auth.routes');
 const shopifyRoutes = require('./routes/shopify.routes');
