@@ -633,9 +633,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For support and questions:
-- Open an [issue](https://github.com/lakshya051/XENOFLOW/issues)
-- Check the [documentation](./docs/)
-- Contact: [your-email@example.com](lakshyavarshney20@gmail.com)
+- Contact: [lakshyavarshney20@gmail.com](lakshyavarshney20@gmail.com)
 
 ---
 
