@@ -6,7 +6,7 @@ import { Toaster } from "sonner";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Shopalytics Dashboard",
+  title: "XenoFlow",
   description: "A multi-tenant Shopify Data Ingestion & Insights Service.",
   icons: {
     icon: [
