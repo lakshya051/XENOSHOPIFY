@@ -1,6 +1,6 @@
-# Shopalytics: A Multi-Tenant Shopify Insights Dashboard
+# XenoFlow: A Multi-Tenant Shopify Insights Dashboard
 
-Shopalytics is a complete, production-ready, full-stack multi-tenant Shopify data ingestion and insights platform. This project demonstrates enterprise-level architecture for onboarding multiple Shopify stores, syncing their core business data, and visualizing key performance indicators in a secure, professional web application.
+XenoFlow is a complete, production-ready, full-stack multi-tenant Shopify data ingestion and insights platform. This project demonstrates enterprise-level architecture for onboarding multiple Shopify stores, syncing their core business data, and visualizing key performance indicators in a secure, professional web application.
 
 **Project Status:** ✅ **COMPLETED** - Production Ready  
 **Last Updated:** January 2025
@@ -38,7 +38,7 @@ Shopalytics is a complete, production-ready, full-stack multi-tenant Shopify dat
 
 The application is architected as a decoupled monorepo with a separate frontend and backend, which is a standard for modern, scalable web applications.
 
-![Shopalytics System Architecture](architecture.png)
+![XenoFlow System Architecture](architecture.png)
 
 **Architecture Components:**
 
@@ -63,8 +63,8 @@ To run this project locally, you will need Node.js, npm, and a running PostgreSQ
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/mrinank-bhowmick/Shopalytics.git
-cd Shopalytics
+git clone https://github.com/mrinank-bhowmick/XenoFlow.git
+cd XenoFlow
 ```
 
 #### 2. Backend Setup
@@ -270,7 +270,7 @@ model Checkout {
 ### 📁 Project Structure
 
 ```
-Shopalytics/
+XenoFlow/
 ├── backend/                    # Node.js/Express API server
 │   ├── config/                 # Configuration files
 │   │   ├── prisma.config.js    # Prisma configuration
@@ -333,7 +333,7 @@ Shopalytics/
 
 The application is deployed using modern cloud platforms:
 
-- **Frontend**: [shopalytics.vercel.app](https://shopalytics.vercel.app) - Live production site on Vercel
+- **Frontend**: [XenoFlow.vercel.app](https://XenoFlow.vercel.app) - Live production site on Vercel
 - **Backend**: [Railway](https://Railway.com/) - Containerized Node.js deployment
 - **Database**: [Supabase](https://supabase.com/) - Managed PostgreSQL with real-time features
 - **Alternative**: [Railway](https://railway.app/) - Full-stack deployment option
